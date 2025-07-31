@@ -11,7 +11,7 @@
 ---
 ## 📢 1. 군 복무 기간 및 진급
 <details>
-<summary> </summary>
+<summary> 더 보기 </summary>
 
  ### ▪ 총 복무 기간
 기본적으로 총 1년 6개월입니다.
