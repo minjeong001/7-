@@ -181,12 +181,12 @@
 
 ### ▪ 숙소 (펜션)
 - 추천:  
-  - 🏡 **라포렌**: [예약하기](http://laforet98.com/contents/main.html)  
+  - 🏡 **라포레98**: [예약하기](http://laforet98.com/contents/main.html)  여기어때로 예약 추천!
   - 🌲 **비엔비**: [예약하기](http://www.bnbhouse.co.kr/html/index.html)  
   - 🍀 **안녕하리**: [예약하기](https://www.hihari.co.kr/)
 
 > 외박 신청 타이밍 놓치면 짤릴 수도 있어요 😢  
-> 수수료도 미리 확인해보세요!
+> 수수료도 미리 확인해보세요! - 네이버 예약후 취소시 수수료가 비쌀수 있어요!
 
 ### ▪ 혼자 잘 모텔
 - 추천 모텔:  
