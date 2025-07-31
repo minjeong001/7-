@@ -160,9 +160,9 @@
 ### ▪ 숙소(펜션)
 - 꾸나와 같이 쓸 펜션중 괜찮은 곳은 다음과 같습니다.
 ```
-  - 라포레 : [여기를 클릭하세요]http://laforet98.com/contents/main.html (개인적으로 여기어때로 예약 추천)
-  - 비엔비 : [여기를 클릭하세요]http://www.bnbhouse.co.kr/html/index.html
-  - 안녕하리 (블로그에서 예약 - 금방 꽉참) : [여기를 클릭하세요]https://www.hihari.co.kr/
+  - 라포레 : [공식 사이트 바로가기](http://laforet98.com/contents/main.html) (개인적으로 여기어때로 예약 추천)
+  - 비엔비 : [공식 사이트 바로가기](http://www.bnbhouse.co.kr/html/index.html)
+  - 안녕하리 (블로그에서 예약 - 금방 꽉참) : [공식 사이트 바로가기](https://www.hihari.co.kr/)
 ```
 - 개인적으로 외박 신청시작일이 늦어 외박이 짤릴수 있습니다.
 - 혹시 모를 수수료도 생각하시는걸 추천드립니다.
